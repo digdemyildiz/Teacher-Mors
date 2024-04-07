@@ -7,5 +7,5 @@
 3) Compile the Assembly source code in Microchip Studio for Atmega32.
 4) Connect Atmega32 to computer for both power and UART connection.
 5) Upload compiled code to Atmega32 via AVRFLASH.
-6) Connect to the terminal applicaiton to start using the Teacher Mors. (after initial connection to terminal, reset button might be needed to see messages!)
+6) Connect to the terminal applicaiton to start using the Teacher Mors. (after initial connection to terminal, reset button might be needed to see the messages!)
 7) Let's Learn the Mors Alphabet!
